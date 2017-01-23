@@ -1,0 +1,1 @@
+alert("This site has been identified as very unreliable by our user base. Are you sure you want to continue?");
